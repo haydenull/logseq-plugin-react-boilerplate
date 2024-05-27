@@ -45,6 +45,9 @@ This mode doesn't support HMR, you need to run `pnpm build` and reload plugin in
 1. push to `main` branch
 2. github ci will auto create a new release
 
+> [!TIP]
+> Commit message needs to follow the [semantic-release](https://github.com/semantic-release/semantic-release) specification
+
 ## Publish to [logseq marketplace](https://github.com/logseq/marketplace)
 
 Create PR to add your plugin message to [logseq/marketplace](https://github.com/logseq/marketplace)
