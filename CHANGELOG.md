@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/haydenull/logseq-plugin-react-boilerplate/compare/v1.2.0...v1.3.0) (2024-05-27)
+
+
+### Features
+
+* :sparkles: upgrade logseq sdk version and replace yarn with pnpm ([1b0e637](https://github.com/haydenull/logseq-plugin-react-boilerplate/commit/1b0e6372450f9301c14872c49d1310980887d524))
+
 # [1.2.0](https://github.com/haydenull/logseq-plugin-react-boilerplate/compare/v1.1.0...v1.2.0) (2022-11-29)
 
 
